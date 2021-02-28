@@ -5,7 +5,7 @@ import {View, Text} from 'react-native';
 const StyledButton = (props) => {
   return (
     <View>
-      <Text>style button</Text>
+      <Text>style buttons</Text>
     </View>
   );
 };
